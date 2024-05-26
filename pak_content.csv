@@ -1,0 +1,29 @@
+category,distance,duration,nearby_places,title,url,p_rating,count,itemId
+ Wildlife,6 Kms,1-2 Hours,None,Islamabad Zoo,/pakistan/islamabad/islamabad-zoo,2.2,158,1
+ Heritage,6 Kms,1-2 Hours,None,Lok Virsa Museum,/pakistan/islamabad/lok-virsa-museum,4.6,652,2
+ Heritage,13 Kms,2-3 Hours,"Rawalpindi Fort (1 km by walk), Taxila Museum (500m), Katas Raj Temples (1 km) & Faisal Mosque - Islamabad (1 km) are situated near Pakistan Monument and can be visited together.",Pakistan Monument,/pakistan/islamabad/pakistan-monument,5,783,3
+ Pilgrimage,6 Kms,1-2 Hours,None,Faisal Mosque,/pakistan/islamabad/faisal-mosque,4.9,482,4
+ Heritage,6 Kms,30 Mins,None,Bab-e-Khyber,/pakistan/peshawar/bab-e-khyber,4.2,890,5
+ Heritage,9 Kms,30 Mins,None,Bahawalpur Museum,/pakistan/bahawalpur/bahawalpur-museum,1.9,656,6
+ Pilgrimage,6 Kms,30 Mins,None,Mohenjo-daro Ruins,/pakistan/larkana/mohenjo-daro-ruins,4.5,350,7
+ Park,11 Kms,1 Hour,None,Ayub National Park,/pakistan/rawalpindi/ayub-national-park,2,700,8
+ Heritage,5.5 Kms,1-2 Hours,"Bab-e-Khyber (On the edge of Peshawar), Khyber Pass (adjacent to Peshawar), Bala Hissar Fort (Inside Peshawar) can be visited along with Peshawar Museum.",Peshawar Museum,/pakistan/peshawar/peshawar-museum,3.2,25,9
+ Pilgrimage,6.5 Kms,1-2 Hours,None,Masjid Mahabat Khan,/pakistan/peshawar/masjid-mahabat-khan,5,345,10
+ Heritage,14 Kms,30 Mins,None,Multan Fort,/pakistan/multan/multan-fort,4.8,120,11
+ Heritage,5.5 Kms,1 Hour,This is a UNESCO World Heritage Site,Lahore Fort,/pakistan/lahore/lahore-fort,1.5,456,12
+ Pilgrimage,11 Kms,1-2 Hours,None,Badshahi Mosque,/pakistan/lahore/badshahi-mosque,3.5,990,13
+" Heritage, Museum",6 Kms,1-2 Hours,None,National Museum of Pakistan,/pakistan/karachi/national-museum-of-pakistan,4,222,14
+ Pilgrimage,7 Kms,30 Mins,None,Clifton Beach Mosque,/pakistan/karachi/clifton-beach-mosque,1.5,43,15
+ Heritage,11 Kms,1 Hour,"Haleji Lake (1 km from Thatta), Makli Necropolis (1 km from Thatta) can be visited along with Thatta.",Makli Necropolis,/pakistan/thatta/makli-necropolis,4.2,678,16
+" Heritage, Pilgrimage",13.5 Kms,30 Mins,None,Shah Jahan Mosque,/pakistan/thatta/shah-jahan-mosque,2,789,17
+ Heritage,6 Kms,1 Hour,"This is currently a private residence, but visitors are allowed to take a tour of the palace.",Mohatta Palace,/pakistan/karachi/mohatta-palace,3.2,567,18
+ Park,4 Kms,1 Hour,None,Frere Hall Garden,/pakistan/karachi/frere-hall-garden,3.8,245,19
+ Heritage,15 Kms,1-2 Hours,This is usually visited from Lahore Fort (1 km by walk),Sheesh Mahal,/pakistan/lahore/sheesh-mahal,4.5,890,20
+ Park,13 Kms,1-2 Hours,None,Quaid's Mausoleum Garden,/pakistan/karachi/quaid-mausoleum-garden,4.2,13,21
+ Heritage,7 Kms,1 Hour,None,Tomb of Shah Rukn-e-Alam,/pakistan/multan/tomb-of-shah-rukn-e-alam,1,123,22
+ Heritage,4 Kms,30 Mins,None,Allama Iqbal's Tomb,/pakistan/lahore/allama-iqbals-tomb,5,67,23
+ Pilgrimage,14 Kms,2 Hours,None,Hazrat Lal Shahbaz Qalandar Shrine,/pakistan/sehwan/hazrat-lal-shahbaz-qalandar-shrine,3.9,412,24
+ Heritage,40 Kms,4 Hours/Half Day,None,Mohatta Palace / Samode Bagh,/pakistan/karachi/mohatta-palace-samode-bagh,4.8,25,25
+ Heritage,5 Kms,15 Mins or Less,None,Minar-e-Pakistan,/pakistan/lahore/minar-e-pakistan,3.5,654,26
+" Heritage, Pilgrimage",14 Kms,30 Mins,None,Taxila Museum,/pakistan/taxila/taxila-museum,2.9,134,27
+ Museum,14 Kms,2 Hours,None,Lahore Museum,/pakistan/lahore/lahore-museum,1.7,560
